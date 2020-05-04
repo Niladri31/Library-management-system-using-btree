@@ -4,8 +4,8 @@ A library management system showing functionality of  how database indexing is d
 
 <h2>Screenshots</h2>
 
-<img src="capture.png" alt="Italian Trulli">
-<img src="capture1.png" alt="Italian Trulli">
-<img src="capture2.png" alt="Italian Trulli">
+<img src="Capture.png" alt="Italian Trulli">
+<img src="Capture1.png" alt="Italian Trulli">
+<img src="Capture2.png" alt="Italian Trulli">
 
 
